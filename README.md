@@ -1,0 +1,2 @@
+# visualg
+ estudos de alg
